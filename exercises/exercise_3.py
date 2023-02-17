@@ -1,5 +1,5 @@
 # Exercise 3 Solution
-age = 2022 - 2003
-for i in range(2022, 2033):
+age = 2023 - 2002
+for i in range(2023, 2034):
     print("In ", i, ", I am ", age, " years old")
     age += 1
